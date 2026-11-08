@@ -2,15 +2,15 @@
 
 [![Release](https://img.shields.io/docker/v/jcpd/dknr-apsystems?sort=semver)](https://img.shields.io/docker/v/jcpd/dknr-apsystems?sort=semver)
 [![Pull](https://img.shields.io/docker/pulls/jcpd/dknr-apsystems)](https://img.shields.io/docker/pulls/jcpd/dknr-apsystems)
-[![Issue](https://img.shields.io/github/issues/jcdenis/dknr-apsystems)](https://img.shields.io/github/issues/jcdenis/dknr-apsystems)
-[![License](https://img.shields.io/github/license/jcdenis/dknr-apsystems)](https://github.com/JcDenis/dknr-apsystems/blob/master/LICENSE)
+[![Issue](https://img.shields.io/github/issues/dknr-domotic/dknr-apsystems)](https://img.shields.io/github/issues/dknr-domotic/dknr-apsystems)
+[![License](https://img.shields.io/github/license/dknr-domotic/dknr-apsystems)](https://github.com/dknr-domotic/dknr-apsystems/blob/master/LICENSE)
 
 
 ## A propos
 
 **dknr-apsystems** est un projet consacré à la récupération et à l'exploitation des données des onduleurs APSystems en local. Ce projet n'utilise pas le cloud APSysttems mais attaque directement l'API de l'ECU.
 
-[![Dashboard Screenshot](https://github.com/JcDenis/dknr-apsystems/blob/master/dknr-apsystems_screenshot.png)](https://github.com/JcDenis/dknr-apsystems/blob/master/dknr-apsystems_screenshot.png)
+[![Dashboard Screenshot](https://github.com/dknr-domotic/dknr-apsystems/blob/master/dknr-apsystems_screenshot.png)](https://github.com/dknr-domotic/dknr-apsystems/blob/master/dknr-apsystems_screenshot.png)
 
 
 ## Fonctionnalités
@@ -73,11 +73,11 @@ Quelques remarques :
 
 ## Contribuer
 
-Ce projet est **open-source**, vous pouvez participer en créant des [tickets](https://github.com/JcDenis/dknr-apsystems/issues) ou en proposant de [requêtes](https://github.com/JcDenis/dknr-apsystems/pulls) sur le dépôt github du projet.
+Ce projet est **open-source**, vous pouvez participer en créant des [tickets](https://github.com/dknr-domotic/dknr-apsystems/issues) ou en proposant de [requêtes](https://github.com/dknr-domotic/dknr-apsystems/pulls) sur le dépôt github du projet.
 
 
 ## Voir aussi
 
-- [DKNR Teleinfo](https://github.com/JcDenis/dknr-teleinfo)
-- [DKNR APSystems](https://github.com/JcDenis/dknr-apsystems)
-- [DKNR Daikin](https://github.com/JcDenis/dknr-daikin)
+- [DKNR Teleinfo](https://github.com/dknr-domotic/dknr-teleinfo)
+- [DKNR APSystems](https://github.com/dknr-domotic/dknr-apsystems)
+- [DKNR Daikin](https://github.com/dknr-domotic/dknr-daikin)

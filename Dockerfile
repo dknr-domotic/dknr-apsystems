@@ -9,7 +9,7 @@ USER root
 ENV DKNR_USERNAME=admin \
 	DKNR_PASSWORD=admin \
       DKNR_SECRET=dkteleinfo \
-      DKNR_REPOSITORY=https://github.com/JcDenis/dknr-apsystems \
+      DKNR_REPOSITORY=https://github.com/dknr-domotic/dknr-apsystems \
       NODE_RED_ENABLE_PROJECTS=true \
       DKNR_INFLUX_URL=http://dknr_apsystems_influxdb:8086 \
       DKNR_INFLUX_TOKEN=dknr-apsystems-influxdb-token \
@@ -19,7 +19,7 @@ ENV DKNR_USERNAME=admin \
 
 # Image label
 LABEL org.opencontainers.image.authors="Jean-Christian Paul Denis" \
-      org.opencontainers.image.source="https://github.com/JcDenis/dknr-apsystems" \
+      org.opencontainers.image.source="https://github.com/dknr-domotic/dknr-apsystems" \
       org.opencontainers.image.title="DKNR APSystems" \
       org.opencontainers.image.description="APSystems ECU Parser with web UI and MQTT" \
       org.opencontainers.image.licenses="AGPL-3.0"
