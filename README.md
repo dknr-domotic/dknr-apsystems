@@ -10,7 +10,13 @@
 
 **dknr-apsystems** est un projet consacré à la récupération et à l'exploitation des données des onduleurs APSystems en local. Ce projet n'utilise pas le cloud APSysttems mais attaque directement l'API de l'ECU.
 
-[![Dashboard Screenshot](https://github.com/dknr-domotic/dknr-apsystems/blob/master/dknr-apsystems_screenshot.png)](https://github.com/dknr-domotic/dknr-apsystems/blob/master/dknr-apsystems_screenshot.png)
+[![Dashboard Screenshot detail](https://github.com/dknr-domotic/dknr-apsystems/blob/master/sshot/dknr-apsystems_screenshot.png)](https://github.com/dknr-domotic/dknr-apsystems/blob/master/sshot/dknr-apsystems_screenshot.png)
+
+[![Dashboard Screenshot history](https://github.com/dknr-domotic/dknr-apsystems/blob/master/sshot/dknr-apsystems_screenshot2.png)](https://github.com/dknr-domotic/dknr-apsystems/blob/master/sshot/dknr-apsystems_screenshot2.png)
+
+[![Dashboard Screenshot add](https://github.com/dknr-domotic/dknr-apsystems/blob/master/sshot/dknr-apsystems_screenshot3.png)](https://github.com/dknr-domotic/dknr-apsystems/blob/master/sshot/dknr-apsystems_screenshot3.png)
+
+[![Dashboard Screenshot mqtt](https://github.com/dknr-domotic/dknr-apsystems/blob/master/sshot/dknr-apsystems_screenshot4.png)](https://github.com/dknr-domotic/dknr-apsystems/blob/master/sshot/dknr-apsystems_screenshot4.png)
 
 
 ## Fonctionnalités
